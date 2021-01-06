@@ -1,0 +1,9 @@
+black
+isort
+mypy
+pytest
+pytest-cov
+pytest-env
+pytest-flake8
+pytest-randomly
+requests

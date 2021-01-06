@@ -1,0 +1,5 @@
+app/tests/
+test_modules/
+__pycache__
+.pytest_cache
+.mypy_cache
